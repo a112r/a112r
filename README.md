@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Raghuwanshi (@a112r)
 - I’m currently a 3rd year electrical engineering student (in 2024-25) at UBC
-- You can reach out to me on - [Linkedin](linkedin.com/in/a112r/) , or [Instagram](instagram.com/abh1shek.r)
+- You can reach out to me on - linkedin.com/in/a112r/ , or instagram.com/abh1shek.r
 - Pronouns: He Him
 - ⚡ Fun fact: I have taken courses about quantum mechanics and love physics and maths!
 
