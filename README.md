@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Abhishek Raghuwanshi (@a112r)
 
-- 🎓 4th year Electrical Engineering student @ UBC (2024–25), specializing in **embedded systems**, **digital hardware**, and **silicon engineering**
+- 🎓 4th year Electrical Engineering student @ UBC (2022–27), specializing in **embedded systems**, **digital hardware**, and **silicon engineering**
 - 🛠️ Experienced in **PCB design (Altium & KiCad)**, **embedded C/C++**, **SystemVerilog RTL**, and **real-time control systems**
 - 🤖 Electronics Team Lead at **UBC Subbots**, designing full-stack electronics for autonomous underwater vehicles
 - ⚡ Passionate about **FPGA prototyping**, **ASIC design**, and solving complex hardware-software challenges
